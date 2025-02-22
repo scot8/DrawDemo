@@ -59,7 +59,3 @@ DrawDemo is a customizable drawing application for Android. It allows users to d
 
 - Main activity that sets up the user interface and handles user interactions.
 
-## License
-
-This project is licensed under the MIT License.
-```
