@@ -1,4 +1,4 @@
-# DrawDemo
+# Draw Demo
 
 DrawDemo is a customizable drawing application for Android. It allows users to draw on the screen with different colors, stroke widths, and styles. The app supports dotted and dashed lines through the use of a `DashPathEffect`.
 
